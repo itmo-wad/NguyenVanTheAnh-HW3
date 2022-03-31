@@ -10,3 +10,4 @@ Implement blog website features:
 /: index page where all people can see blog
 /login: log in and create new post
 ```
+public_blog.JPG 
