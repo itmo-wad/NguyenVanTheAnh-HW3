@@ -9,23 +9,24 @@ Implement blog website features:
 - `/logout` - Logout from your account
 - `/index` - View the posts
 - `/create-post` - Create a new post for logined user
-```
-- 1) Public blog
+
+# Step-by-step
+ 1) Public blog
 
 ![Public_blog](public_blog.JPG)
 
-- 2) Create account
+ 2) Create account
 
 ![Create_account](create_account.JPG)
 
-- 3) Logged in
+ 3) Logged in
 
 ![Logged_in](logged_in.JPG)
 
-- 4) Create post
+ 4) Create post
 
 ![Create_post](create_post.JPG)
 
-- 5) View new post
+ 5) View new post
 
 ![New_post_appeared](new_post_appeared.JPG)
