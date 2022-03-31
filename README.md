@@ -9,7 +9,7 @@ Implement blog website features:
 - `/logout` - Logout from your account
 - `/index` - View the posts
 - `/create-post` - Create a new post for logined user
-
+```
 - 1) Public blog
 
 ![Public_blog](public_blog.JPG)
